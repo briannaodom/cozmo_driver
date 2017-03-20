@@ -1,8 +1,9 @@
 ## Cozmo_Winter_Project_Cozmo_Driver
 
-Note: THIS REPO IS A COPY OF Cozmo_driver for Ros Repo Provided Below
+Note: This repository is a copy of the cozmo_driver for Ros repository provided below:
+
 [Repository](https://github.com/OTL/cozmo_driver) created by Takashi Ogura.
 
-Also, The Cozmo Yaml File, Follow Node, and Drive Straight Function in the Comzo_driver Node Were Created and Used in My Cozmo_winter_project Repo Provided Below
+Also, the Cozmo yaml file, follow Node, and drive straight function in the comzo_driver node were created and used in my cozmo_winter_project repository provided below:
 
 [Repository](https://github.com/briannaodom/cozmo_winter_project) created by me.
